@@ -1,0 +1,27 @@
+# Node dependencies
+/node_modules
+
+# Angular build output
+/dist
+/out-tsc
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NPM files
+package-lock.json
+yarn.lock
+
+# Compiled TypeScript
+*.js.map
+
+# Environment files
+src/environments/environment*.ts
